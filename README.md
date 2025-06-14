@@ -7,9 +7,9 @@
 
 ### Changing users with the su command.
 
-    su tool can help us act as several users in one session
+-- su tool can help us act as several users in one session
 
-    su = Substitute User
+-- su = Substitute User
 
     whoami shows which user is logged in.
 
